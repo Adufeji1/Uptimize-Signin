@@ -125,7 +125,7 @@
        height: 48px;
        left: 73px;
        background-image: linear-gradient(180deg, rgba(252, 183, 2, 0.62) 0%, #FDC221 100%);
-       top: 200px;
+       top: 180px;
        border-radius: 5px;
    }
    
@@ -144,7 +144,7 @@
    
    .passwordbtn {
        position: absolute;
-       top: 340px;
+       top: 330px;
        margin-left: 60px;
        height: 45.46px;
        width: 213.67px;
