@@ -1,0 +1,254 @@
+/* sign in form styles */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbg {
+    background-color: #10266F;
+    max-width: 100%;
+    width: 1300px;
+    height: 173px;
+    overflow: hidden;
+   }
+   
+   #logoimg {
+       background-color: white;
+       border-radius: 50px;
+       width: 114px;
+       height: 82px;
+       margin: 20px 50px;
+   }
+   
+   .navlistitems {
+       color: #ccc;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       list-style-type: none;
+       font-weight: 600;
+       font-size: 20px;
+       margin: -50px;
+       text-align: center;
+   }
+   
+   .imgnav {
+       display: flex;
+       flex-direction: row;
+       justify-content: flex-end;
+       margin: 30px;
+   }
+   
+   #usernav {
+       color: #ccc;
+       padding-right: 20px;
+   }
+   
+   .btnnav {
+       background-color: white;
+       color: #fcb702;
+       width: 100px;
+       height: 30px;
+   }
+   
+   .bluerectangle {
+       max-width: 100%;
+       overflow: hidden;
+       width: 1270px;
+       position: relative;
+   
+   }
+   
+   #ladyimage {
+      position: absolute;
+      width: 380px;
+      height: 500px;
+      left: 870px;
+      top: 125px;
+   }
+   
+   .zindexdiv:bluerectangle {
+       z-index: 1;
+   }
+   
+   .siginfield {
+       width: 667px;
+       height: 610px;
+       position: absolute;
+       top: 244px;
+       left: 277px;
+       border: .2px solid;
+       background-color: white;
+   }
+   
+   .signinword {
+       font-weight: 500;
+       size: 32px;
+       line-height: 48px;
+       color: rgba(0, 0, 0, 1);
+   }
+   
+   .signinform {
+       width: 593.52px;
+       height: 94.16px;
+       top: 350.04px;
+       left: 312.05px;
+       background-color: white;
+       border: 1px solid black;
+   }
+   
+   .siginlabel {
+       font-weight: 400;
+       font-size: 16px;
+       line-height: 160%;
+       text-transform: capitalize;
+       color:  #000000;
+   }
+   
+   .signinput {
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+       padding: 12px;
+       gap: 20px;
+       width: 593.52px;
+       height: 50px;
+       background-color: #ffffff;
+       border: .5px solid black;
+       border-radius: 4px;
+   }
+   
+   .signinbtn {
+       position: absolute;
+       width: 500px;
+       height: 48px;
+       left: 73px;
+       background-image: linear-gradient(180deg, rgba(252, 183, 2, 0.62) 0%, #FDC221 100%);
+       top: 200px;
+       border-radius: 5px;
+   }
+   
+   .btnp {
+       font-weight: 400;
+       font-style: normal;
+       line-height: 21px;
+       text-align: center;
+       letter-spacing: -0.01em;
+       color: #797987;
+       position: absolute;
+       top: 240px;
+       left: 73.05px;
+   }
+   
+   
+   .passwordbtn {
+       position: absolute;
+       top: 340px;
+       margin-left: 60px;
+       height: 45.46px;
+       width: 213.67px;
+       gap: 8px;
+       border-radius: 4px;
+       border: 1px solid #ffffff;
+   }
+   
+   
+   .p1signin {
+       position: absolute;
+       font-style: normal;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 27px;
+       display: flex;
+       align-items: center;
+       letter-spacing: 0.75px;
+       color:  #10266F;
+       border: 1px solid #ffffff;
+       top: 370px;
+       margin-left: 156px;
+   }
+   
+   .p2signin {
+       position: absolute;
+       font-style: normal;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 27px;
+       letter-spacing: 0.75px;
+       color:  #10266F;
+       border: 1px solid #ffffff;
+       top: 400px;
+       text-align: center;
+       margin-left: 300px;
+   }
+   
+   .divbrand {
+       width: 352.72px;
+       height: 51.55px;
+       margin-top: 300px;
+       align-items: center;
+       justify-content: center;
+       display: flex;
+       flex-direction: column;
+       margin-left: 150px;
+   }
+   
+   .googlebrand {
+       border: 1px solid #ffffff;
+       border-radius: 10px;
+       color: rgba(0, 0, 0, 0.6);
+       width: 163px;
+   
+   }
+   
+   
+   #fagoogle {
+      background-image: linear-gradient(red, green, 
+      blue);
+      width: 30px;
+      height: 28px;
+      text-align: center;
+      margin-bottom: 16px;
+   }
+   
+   .fbrand {
+       width: 352px;
+       line-height: 53px;
+       background-color: #10266F;
+       color: white;
+       font-weight: 600;
+       font-size: 16px;
+       margin-right: 100px;
+       border-radius: 10px;
+   }
+   
+   #fbrandid {
+       background-image: linear-gradient(blue,white
+       );
+       margin-right: 10px;
+   }
+   
+   
+   .footericons2 {
+       display: flex;
+       flex-direction: row;
+       justify-content: space-between;
+       align-items: center;
+       padding: 0px;
+       gap: 253px;
+       position: absolute;
+       width: 1206px;
+       height: 56px;
+       margin-top: -60px;
+       left: 20px;
+   }
+   
+   
+   
+   
+   
+   
+   
+   
+    
